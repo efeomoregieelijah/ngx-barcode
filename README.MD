@@ -6,7 +6,7 @@
 
 ___
 
-An angular component for Angular 4+ for creating 1-D barcodes based on [Lindell's JsBarcode](https://github.com/lindell/JsBarcode).
+An angular component for Angular 12+ for creating 1-D barcodes based on [Lindell's JsBarcode](https://github.com/lindell/JsBarcode).
 
 ## Demo 
 Basic [demo](https://yobryon.github.io/ngx-barcode/demo/).
@@ -26,7 +26,7 @@ Basic [demo](https://yobryon.github.io/ngx-barcode/demo/).
 To use ngx-barcode in your project, install it via npm:
 
 ```bash
-$ npm install ngx-barcode --save
+$ npm install @eoesoft/ngx-barcode --save
 ```
 
 ## Usage
@@ -82,4 +82,4 @@ $ npm run lint
 
 ## License
 
-MIT © [Bryon Williams](mailto:bryon.williams@live.com)
+MIT © [Bryon Williams](mailto:bryon.williams@live.com),  [Efe Omoregie Elijah](mailto:admin@eoesoft.com)
