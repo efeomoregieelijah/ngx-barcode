@@ -1,6 +1,6 @@
 {
-  "name": "ngx-barcode",
-  "version": "0.3.0",
+  "name": "@eoesoft/ngx-barcode",
+  "version": "0.0.1",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -12,15 +12,15 @@
     "url": "https://github.com/yobryon/ngx-barcode"
   },
   "author": {
-    "name": "Bryon Williams",
-    "email": "bryon.williams@live.com"
+    "name": "Efe Omoregie Elijah",
+    "email": "admin@eoesoft.com"
   },
   "keywords": [
     "angular"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yobryon/ngx-barcode/issues"
+    "url": "https://github.com/efeomoregieelijah/ngx-barcode/issues"
   },
   "devDependencies": {
     "@angular/common": "^4.2.4",
