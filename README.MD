@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://cdn.rawgit.com/yobryon/ngx-barcode/master/docs/assets/ngx-barcode.svg" width="200px" alt="ngx-barcode">
   <h1 align="center">ngx-barcode</h1>
-  <p>A barcode component for Angular4+.</p>
+  <p>A barcode component for Angular12+.</p>
 </div>
 
 ___
